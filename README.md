@@ -2,4 +2,4 @@
 
 30th October
 ---------------------------
-[Version 01](aoifemclaughlin.github.io/brief-history-of-type/history-list.html) 
+[Version 01](https://aoifemclaughlin.github.io/brief-history-of-type/history-list.html) 
